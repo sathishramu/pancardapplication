@@ -1,0 +1,41 @@
+div{
+    background-color: rgb(249, 69, 69);
+    color: aliceblue;
+    margin: 20px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    
+}
+span{
+    color: rgb(0, 0, 255);
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border-collapse: collapse;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(249, 212, 168);
+    margin: 20px;
+    display: flex;
+
+}
+td{
+    text-align: left;
+    font-size: 25px;
+}
+.word{
+    color: green;
+}
+th{
+    width: 20px;
+}
+.date{
+    display: flex;
+    justify-content: right;
+}
